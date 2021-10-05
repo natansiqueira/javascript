@@ -9,3 +9,5 @@ The content of the course ["JavaScript Masterclass"](https://app.branas.io/publi
 * [Introduction to ECMAScript](/introduction)
     * [History](/introduction/history.md)
     * [Versions](/introduction/history.md)
+    * [Variables](/introduction/variables.md)
+        * [Code examples](/introduction/code)
