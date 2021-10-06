@@ -11,3 +11,6 @@ The content of the course ["JavaScript Masterclass"](https://app.branas.io/publi
     * [Versions](/introduction/history.md)
     * [Variables](/introduction/variables.md)
         * [Code examples](/introduction/code)
+* [Data types](/data-types)
+    * [Overview](/overview.md)
+        * [Code examples](/overview-code)
